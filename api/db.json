@@ -1,18 +1,18 @@
 {
   "streams": [
     {
-      "title": "11",
-      "description": "22",
+      "title": "My first Stream",
+      "description": "This is kama bullet stream",
       "id": 1
     },
     {
-      "title": "11",
-      "description": "22",
+      "title": "More Stream",
+      "description": "Some stream",
       "id": 2
     },
     {
-      "title": "11",
-      "description": "22",
+      "title": "True Stream",
+      "description": "About ej",
       "id": 3
     }
   ]
