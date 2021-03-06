@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6286019-31b4-456f-99ed-6b0bd3b2f75b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/streams/StreamEdit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/streams/StreamEdit.js" afterDir="false" />
-    </list>
+    <list default="true" id="b6286019-31b4-456f-99ed-6b0bd3b2f75b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -40,8 +38,8 @@
       <file leaf-file-name="StreamEdit.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/streams/StreamEdit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+            <state relative-caret-position="272">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -243,12 +241,12 @@
       <workItem from="1614772667042" duration="8643000" />
       <workItem from="1614846564511" duration="6140000" />
       <workItem from="1614944630338" duration="14391000" />
-      <workItem from="1615013060130" duration="9328000" />
+      <workItem from="1615013060130" duration="10123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74035000" />
+    <option name="totallyTimeSpent" value="74830000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1461" y="110" width="1099" height="1024" extended-state="0" />
@@ -679,8 +677,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/streams/StreamEdit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+        <state relative-caret-position="272">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
