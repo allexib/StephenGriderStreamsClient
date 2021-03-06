@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6286019-31b4-456f-99ed-6b0bd3b2f75b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/streams/StreamEdit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/streams/StreamEdit.js" afterDir="false" />
-    </list>
+    <list default="true" id="b6286019-31b4-456f-99ed-6b0bd3b2f75b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -37,6 +35,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/actions/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="29" column="61" lean-forward="true" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="StreamEdit.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/streams/StreamEdit.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StreamForm.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StreamForm.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/streams/StreamForm.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -106,13 +116,13 @@
         <option value="$PROJECT_DIR$/src/reducers/streamReducer.js" />
         <option value="$PROJECT_DIR$/src/reducers/index.js" />
         <option value="$PROJECT_DIR$/src/history.js" />
-        <option value="$PROJECT_DIR$/src/actions/index.js" />
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/components/streams/StreamList.js" />
         <option value="$PROJECT_DIR$/src/components/streams/StreamForn.js" />
         <option value="$PROJECT_DIR$/src/components/streams/StreamForm.js" />
         <option value="$PROJECT_DIR$/src/components/streams/StreamCreate.js" />
         <option value="$PROJECT_DIR$/src/components/streams/StreamEdit.js" />
+        <option value="$PROJECT_DIR$/src/actions/index.js" />
       </list>
     </option>
   </component>
@@ -234,12 +244,12 @@
       <workItem from="1614772667042" duration="8643000" />
       <workItem from="1614846564511" duration="6140000" />
       <workItem from="1614944630338" duration="14391000" />
-      <workItem from="1615013060130" duration="11706000" />
+      <workItem from="1615013060130" duration="12337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76413000" />
+    <option name="totallyTimeSpent" value="77044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1461" y="110" width="1099" height="1024" extended-state="0" />
@@ -624,16 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/streams/StreamCreate.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -677,6 +677,16 @@
           <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding>
             <element signature="e#1#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="29" column="61" lean-forward="true" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
