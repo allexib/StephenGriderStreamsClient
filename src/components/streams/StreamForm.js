@@ -22,11 +22,11 @@ class StreamForm extends React.Component {
                 {this.renderError(meta)}
             </div>
         );
-    }
+    };
 
     onSubmit = formValues => {
         this.props.onSubmit(formValues);
-    }
+    };
 
     render() {
 
