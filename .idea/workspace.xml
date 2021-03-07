@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6286019-31b4-456f-99ed-6b0bd3b2f75b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/streams/StreamDelete.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/streams/StreamDelete.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -53,8 +53,8 @@
       <file leaf-file-name="Modal.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Modal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -65,11 +65,8 @@
       <file leaf-file-name="StreamDelete.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/streams/StreamDelete.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -226,12 +223,12 @@
       <workItem from="1614846564511" duration="6140000" />
       <workItem from="1614944630338" duration="14391000" />
       <workItem from="1615013060130" duration="15521000" />
-      <workItem from="1615136282808" duration="3673000" />
+      <workItem from="1615136282808" duration="3934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83901000" />
+    <option name="totallyTimeSpent" value="84162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1504" y="110" width="1056" height="1024" extended-state="0" />
@@ -631,8 +628,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Modal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -641,11 +638,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/streams/StreamDelete.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
