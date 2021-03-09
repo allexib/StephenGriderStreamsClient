@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6286019-31b4-456f-99ed-6b0bd3b2f75b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/streams/StreamShow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/streams/StreamShow.js" afterDir="false" />
-    </list>
+    <list default="true" id="b6286019-31b4-456f-99ed-6b0bd3b2f75b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -68,8 +65,8 @@
       <file leaf-file-name="StreamShow.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/streams/StreamShow.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            <state relative-caret-position="138">
+              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -209,7 +206,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../New folder/streams/client/src/components/streams/StreamShow.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../translate" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="F:\react\StephenGrider\streams\client\StephenGriderStreamsClient\node_modules\eslint" />
@@ -250,12 +247,12 @@
       <workItem from="1615136282808" duration="4367000" />
       <workItem from="1615195034213" duration="6460000" />
       <workItem from="1615205949752" duration="10226000" />
-      <workItem from="1615287816423" duration="1219000" />
+      <workItem from="1615287816423" duration="2570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102500000" />
+    <option name="totallyTimeSpent" value="103851000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1495" y="110" width="1066" height="1024" extended-state="0" />
@@ -681,8 +678,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/streams/StreamShow.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        <state relative-caret-position="138">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
